@@ -17,7 +17,7 @@
 </b>
 
 ## 🛠 Languages and Tools:
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img src="./img/java.png" alt="Java" width="50" height="50" />
   <img src="./img/programming.png" alt="OOPS" width="50" height="50" />
   <img src="./img/python.png" alt="Python" width="50" height="50" />
