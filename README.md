@@ -15,9 +15,8 @@
 - Version Control: Git, GitHub  
 - IDEs: VS Code, Eclipse, Android Studio  
 </b>
-
 ## 🛠 Languages and Tools:
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./img/java.png" alt="Java" width="50" height="50" />
   <img src="./img/programming.png" alt="OOPS" width="50" height="50" />
   <img src="./img/python.png" alt="Python" width="50" height="50" />
@@ -32,7 +31,7 @@
   <img src="./img/icons8-jenkins-48.png" alt="jenkins" width="50" height="50" />
   <img src="./img/icons8-tomcat-48.png" alt="tomcat" width="50" height="50" />
 
-</p>
+</div>
 
 <h2> 🚀 Projects: </h2>
 - Event Ticket Management App:** [GitHub Repo](https://github.com/sohil-khann)  
@@ -48,7 +47,7 @@
 </p>
 
 ### 🔗 Connect with me:<b></b>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
     <img src="./img/linkedin.png" alt="linkedin" width="50" height="50" />
   </a>
@@ -58,4 +57,4 @@
   <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
     <img src="./img/icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png" alt="leetcode" width="50" height="50" />
   </a>
-</p>
+</div>
