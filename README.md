@@ -15,6 +15,7 @@
 - Version Control: Git, GitHub  
 - IDEs: VS Code, Eclipse, Android Studio  
 </b>
+<b
 ## 🛠 Languages and Tools:
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./img/java.png" alt="Java" width="50" height="50" />
@@ -48,7 +49,7 @@
 
 ### 🔗 Connect with me:<b></b>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a href="www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
+  <a href="https://www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
     <img src="./img/linkedin.png" alt="linkedin" width="50" height="50" />
   </a>
   <a href="https://github.com/sohil-khann" target="_blank">
