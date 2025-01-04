@@ -15,7 +15,7 @@
 - Version Control: Git, GitHub  
 - IDEs: VS Code, Eclipse, Android Studio  
 </b>
-<b
+<b></b>
 ## 🛠 Languages and Tools:
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./img/java.png" alt="Java" width="50" height="50" />
@@ -46,8 +46,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" />
 </p>
-
-### 🔗 Connect with me:<b></b>
+<b></b>
+### 🔗 Connect with me:<b>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
     <img src="./img/linkedin.png" alt="linkedin" width="50" height="50" />
