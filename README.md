@@ -35,7 +35,7 @@
 </div>
 
 <h2> 🚀 Projects: </h2>
-- Event Ticket Management App:** [GitHub Repo](https://github.com/sohil-khann)  
+- Event Ticket Management App:** [[GitHub Repo](https://github.com/sohil-khann/project_ticket.git)](https://github.com/sohil-khann)  
 - Simple Calculator and BMI Calculator:** Android app using Java.  
 - Unit Conversion App & Tic-Tac-Toe Game:** Built with Java and Android Studio.  
 
