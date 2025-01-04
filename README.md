@@ -15,7 +15,7 @@
 
   ## 🛠 Languages and Tools:
 
-<p align="left">
+<p align="left" gap="10">
   <img src="./img/java.png" alt="Java" width="50" height="50"/>
   <img src="./img/programming.png" alt="OOPS" width="50" height="50"/>
   <img src="./img/python.png" alt="Python" width="50" height="50"/>
@@ -41,9 +41,18 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" />
 </p>
-### 🔗 Connect with me:
-- <div><img src="./img/linkedin.png" alt=""><a href="www.linkedin.com/in/sohil-khan-b39908251"></a></div>
-- **GitHub:** [github.com/sohil-khann](https://github.com/sohil-khann)  
-- **LeetCode:** [sohil_khan07](https://leetcode.com/sohil_khan07/)  
+### 🔗 Connect with me:<b></b>
+<p align="left" gap="10">
+-  <a href="www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
 
+  <img src="./img/linkedin.png" alt="linkedin" width="50" height="50"/>
+</a>
+<a href="https://github.com/sohil-khann" target="_blank">
+
+  <img src="./img/github-brands-solid.svg" alt="github" width="50" height="50"/>
+</a>
+  <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
+
+  <img src="./img/icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png" alt="leetcode" width="50" height="50"/> 
+</p>
 
