@@ -16,15 +16,15 @@
   ## 🛠 Languages and Tools:
 
 <p align="left" gap="10">
-  <img src="./img/java.png" alt="Java" width="50" height="50"/>
-  <img src="./img/programming.png" alt="OOPS" width="50" height="50"/>
-  <img src="./img/python.png" alt="Python" width="50" height="50"/>
-  <img src="./img/letter-c.png" alt="C" width="50" height="50"/>
-  <img src="./img/js-file.png" alt="JavaScript" width="50" height="50"/>
-  <img src="./img/html.png" alt="HTML" width="50" height="50"/>
-  <img src="./img/css.png" alt="CSS" width="50" height="50"/>
-  <img src="./img/mysql.png" alt="MySQL" width="50" height="50"/>
-  <img src="./img/node-js.png" alt="node-js" width="50" height="50"/>
+  <img src="./img/java.png" alt="Java" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/programming.png" alt="OOPS" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/python.png" alt="Python" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/letter-c.png" alt="C" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/js-file.png" alt="JavaScript" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/html.png" alt="HTML" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/css.png" alt="CSS" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/mysql.png" alt="MySQL" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="./img/node-js.png" alt="node-js" width="50" height="50" style="margin-right: 20px;"/>
 
 </p>
 
@@ -43,16 +43,16 @@
 </p>
 ### 🔗 Connect with me:<b></b>
 <p align="left" gap="10">
--  <a href="www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
+  <a href="www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
 
-  <img src="./img/linkedin.png" alt="linkedin" width="50" height="50"/>
+  <img src="./img/linkedin.png" alt="linkedin" width="50" height="50" style="margin-right: 40px;"/>
 </a>
 <a href="https://github.com/sohil-khann" target="_blank">
 
-  <img src="./img/github-brands-solid.svg" alt="github" width="50" height="50"/>
+  <img src="./img/github-brands-solid.svg" alt="github" width="50" height="50" style="margin-right: 40px;"/>
 </a>
   <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
 
-  <img src="./img/icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png" alt="leetcode" width="50" height="50"/> 
+  <img src="./img/icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png" alt="leetcode" width="50" height="50" style="margin-right: 40px;"/> </a>
 </p>
 
