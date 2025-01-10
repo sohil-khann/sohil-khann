@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
 - 👯 I’m looking to collaborate on **open-source projects and DevOps tools.**  
 - 📫 Reach me at "khaa40408@gmail.com"  
-- 📄 Check my [Resume](link-to-your-resume)  
+- 📄 Check my <a href="./Sohil khan.pdf">Resume</a>
 
 <h2>🛠 Languages and Tools:</h2>
 <b>
@@ -51,12 +51,18 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
+<<<<<<< HEAD
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats"/>
 
 
 </p>
 <b></b>
 
+=======
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+<b></b>
+>>>>>>> ecafe4f (stats)
 <p align="center">
  ## LeetCode Stats
   
@@ -71,7 +77,7 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 
 <b></b>
 ### 🔗 Connect with me:<b>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="left" style="display:flex; justify-content:space-around;">
   <a href="https://www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
     <img src="./img/linkedin.png" alt="linkedin" width="50" height="50" />
   </a>
