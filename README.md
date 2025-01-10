@@ -35,9 +35,16 @@
 </div>
 
 <h2> 🚀 Projects: </h2>
-- Event Ticket Management App:** [[GitHub Repo](https://github.com/sohil-khann/project_ticket.git)](https://github.com/sohil-khann)  
-- Simple Calculator and BMI Calculator:** Android app using Java.  
-- Unit Conversion App & Tic-Tac-Toe Game:** Built with Java and Android Studio.  
+	Crowd Wave | Flutter SDK, Dart, Firebase, Fire Store 	Sep 2024 - Dec 2024 <b></b>
+Developed android application to manage event and let user register for event and manage ticket system for it Developed app features, including event creation, ticket booking, and attendee management.<b></b>
+Integrated Firebase Authentication for secure user login.<b></b>
+
+	Simple Calculator and BMI calculator, Unit Conversion app, tic-tac.to game <b></b>
+    Developed an Android app using Java and Android Studio<b></b>
+
+	API fetch project using JavaScript<b></b>
+Developed an website where we fetch the data from Api using JavaScript.<b></b>
+
 
 <b>
 
@@ -48,7 +55,10 @@
 </p>
 <b></b>
 LeetCode stats:
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=https://leetcode.com/u/sohil_khan07/)
+<p align="center">
+  <img width="48%" src="https://leetcode-stats.vercel.app/api?username=sohil_khan07&show_icons=true&theme=radical" />
+
+</p>
 
 
 <b></b>
