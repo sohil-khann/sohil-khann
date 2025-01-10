@@ -54,9 +54,14 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" />
 </p>
 <b></b>
-LeetCode stats:
+
 <p align="center">
-  <img width="48%" src="https://leetcode-stats.vercel.app/api?username=sohil_khan07&show_icons=true&theme=radical" />
+ ## LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sohil_khan07)
+
+- **Total Problems Solved:** 300+
+- **Ranking:** Top 10% Worldwide
 
 </p>
 
