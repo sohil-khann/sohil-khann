@@ -47,6 +47,11 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" />
 </p>
 <b></b>
+LeetCode stats:
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=https://leetcode.com/u/sohil_khan07/)
+
+
+<b></b>
 ### 🔗 Connect with me:<b>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.linkedin.com/in/sohil-khan-b39908251" target="_blank">
