@@ -51,7 +51,8 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical)
+
 </p>
 <b></b>
 
@@ -60,7 +61,7 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sohil_khan07)
 
-- **Total Problems Solved:** 300+
+- **Total Problems Solved:** 195+
 - **Ranking:** Top 10% Worldwide
 
 </p>
