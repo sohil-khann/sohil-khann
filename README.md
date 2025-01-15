@@ -51,8 +51,8 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&show_icons=true&theme=radical" width="40%" alt="GitHub Streak Stats" />
+
 
 
 </p>
