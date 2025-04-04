@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
 - 👯 I’m looking to collaborate on **open-source projects and DevOps tools.**  
 - 📫 Reach me at "khaa40408@gmail.com"  
-<!-- - 📄 Check my <a href="https://github.com/sohil-khann/sohil-khann/raw/main/Sohil%20khan.pdf">Resume</a> -->
-- 📄 Check my <a href="./Sohil khan.pdf">Resume</a>
+- 📄 Check my <a href="https://github.com/sohil-khann/sohil-khann/raw/main/Sohil%20khan.pdf">Download Resume </a>
+<br>
+<br>
+- 📄 Check my <a href="./Sohil khan.pdf"> Resume</a>
 
 <h2>🛠 Languages and Tools:</h2>
 <b>
