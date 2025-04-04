@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
 - 👯 I’m looking to collaborate on **open-source projects and DevOps tools.**  
 - 📫 Reach me at "khaa40408@gmail.com"  
-- 📄 Check my <a href="./Sohil khan.pdf">Resume</a>
+- 📄 Check my <a href="https://github.com/sohil-khann/sohil-khann/raw/main/Sohil%20khan.pdf">Resume</a>
 
 <h2>🛠 Languages and Tools:</h2>
 <b>
@@ -51,18 +51,10 @@ Developed an website where we fetch the data from Api using JavaScript.<b></b>
 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
-<<<<<<< HEAD
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats"/>
-
-
-</p>
-<b></b>
-
-=======
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+
 <b></b>
->>>>>>> ecafe4f (stats)
 <p align="center">
  ## LeetCode Stats
   
