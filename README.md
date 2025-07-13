@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
 - 👯 I’m looking to collaborate on **open-source projects and DevOps tools.**  
 - 📫 Reach me at "khaa40408@gmail.com"  
+- 📫 Visit on my Linkedin Profile "www.linkedin.com/in/sohil-khan-b39908251"  
 - 📄 Download  my <a href="https://github.com/sohil-khann/sohil-khann/raw/main/Sohil%20khan.pdf">Resume </a>
 <br>
 - 📄 Check my <a href="./Sohil khan.pdf"> Resume</a>
