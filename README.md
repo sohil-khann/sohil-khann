@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFB400" />
   </a>
 
   <a href="https://github.com/sohil-khann" target="_blank">
