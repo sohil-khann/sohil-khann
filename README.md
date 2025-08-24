@@ -16,11 +16,11 @@
   </a>
   
   <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
-    <img alt="LeetCode" src="https://leetcode-badge.vercel.app/api/badges/simple?username=sohil_khan07" />
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <a href="https://github.com/sohil-khann" target="_blank">
-    <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="50" height="50" />
   </a>
 </div>
 
