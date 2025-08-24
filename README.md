@@ -9,28 +9,32 @@
 <br>
 - 📄 Check my <a href="./Sohil khan.pdf"> Resume</a>
 <hr>
-### 🔗 Connect with me:<b>
+### 🔗 Connect with me:
 <div align="left" style="display:flex; justify-content:space-around;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sohilkhan07)
+  <a href="https://www.linkedin.com/in/sohilkhan07" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
   
-  [![LeetCode](https://leetcode-badge.vercel.app/api/badges/simple?username=sohil_khan07)](https://leetcode.com/u/sohil_khan07/)
-
-  <a href="https://github.com/sohil-khann" target="_blank">
-    <img src="./img/github-brands-solid.svg" alt="github" width="50" height="50" />
+  <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
+    <img alt="LeetCode" src="https://leetcode-badge.vercel.app/api/badges/simple?username=sohil_khan07" />
   </a>
 
+  <a href="https://github.com/sohil-khann" target="_blank">
+    <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" />
+  </a>
 </div>
 
+
 <hr>
-<h2>🛠 Languages and Tools:</h2>
-<b>
-- Languages: Java, Python, C, JavaScript, HTML, CSS  
-- Databases: MySQL, MongoDB, Oracle  
-- Frameworks: Spring Boot, Node.js, React.js  
-- DevOps Tools: Docker, Jenkins, Maven, AWS EC2  
-- Version Control: Git, GitHub  
-- IDEs: VS Code, Eclipse, Android Studio  
-</b>
+
+## 🛠 Languages and Tools:
+**Languages:** Java, Python, C, JavaScript, HTML, CSS  
+**Databases:** MySQL, MongoDB, Oracle  
+**Frameworks:** Spring Boot, Node.js, React.js  
+**DevOps Tools:** Docker, Jenkins, Maven, AWS EC2  
+**Version Control:** Git, GitHub  
+**IDEs:** VS Code, Eclipse, Android Studio  
+
 <hr>
 ## 🚀 Projects:
 
