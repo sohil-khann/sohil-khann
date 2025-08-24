@@ -24,6 +24,7 @@
   </a>
 </div>
 
+
 <hr>
 
 ## 🛠 Languages and Tools:
@@ -94,20 +95,14 @@
 
 <hr>
 
-## 📊 GitHub Stats:
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohil-khann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohil-khann&theme=dark&layout=compact" />
 </p>
-
-<hr>
-
-## LeetCode Stats
 
 <p align="center">
   ![LeetCode Stats](https://leetcard.jacoblin.cool/sohil_khan07?theme=radical)
@@ -116,7 +111,6 @@
   - **Ranking:** Top 10% Worldwide  
 </p>
 
-<hr>
 
 ### ✍️ Random Dev Quote
 
