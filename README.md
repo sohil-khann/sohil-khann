@@ -13,9 +13,7 @@
 <div align="left" style="display:flex; justify-content:space-around;">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sohilkhan07)
   
- [![LeetCode Logo](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg)](https://leetcode.com/u/sohil_khan07/)
-
-
+  [![LeetCode](https://leetcode-badge.vercel.app/api/badges/simple?username=sohil_khan07)](https://leetcode.com/u/sohil_khan07/)
 
   <a href="https://github.com/sohil-khann" target="_blank">
     <img src="./img/github-brands-solid.svg" alt="github" width="50" height="50" />
