@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohil Khan</h1>
+<p align="center">
+  <a href="https://github.com/sohil-khann">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Software+Developer;Engineer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">Software Developer and Engineer | DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
@@ -114,6 +119,13 @@
 ## 📊 LeetCode Stats:
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=sohil_khan07&theme=dark" />
+</p>
+
+<hr>
+
+## 📈 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohil-khann&label=Profile%20views&color=064635&style=flat" alt="sohil-khann" />
 </p>
 
 <hr>
