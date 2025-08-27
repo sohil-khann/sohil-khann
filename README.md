@@ -102,7 +102,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohil-khann&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohil-khann&theme=radical" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sohil-khann&theme=radical&border=DD2727" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
