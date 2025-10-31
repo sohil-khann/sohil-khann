@@ -26,10 +26,10 @@
   <a href="https://leetcode.com/u/sohil_khan07/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFB400" alt="LeetCode" />
   </a>
-  <a href="https://github.com/sohil-khann" target="_blank"></a>
+  <a href="https://github.com/sohil-khann" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/sohil-khann/sohil-khann/blob/main/Sohil%20khan.pdf" target="_blank"></a>
+  <a href="https://github.com/sohil-khann/sohil-khann/blob/main/Sohil%20khan.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </div>
