@@ -9,8 +9,7 @@
 </p>
 
 <h3 align="center">Software Developer and Engineer | DevOps Enthusiast</h3>
-<br>
-<h3 align="center" >  <a href="https://sohil07.vercel.app/" class="btn btn-primary">
+<h3 align="center" border=3>  <a href="https://sohil07.vercel.app/" class="btn btn-primary">
               <span> Portfolio Site </span>
               <i class="fas fa-arrow-right"></i>
             </a></h3>
