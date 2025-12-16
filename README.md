@@ -10,9 +10,9 @@
 
 <h3 align="center">Software Developer and Engineer | DevOps Enthusiast</h3>
 <hr>
-<p align="center">
+<div align="center">
  [![Visit Portfolio](https://img.shields.io/badge/🚀_Visit-Portfolio-blueviolet?style=for-the-badge)](https://sohil07.vercel.app/)
-</p>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohil-khann&label=Profile%20views&color=064635&style=flat" alt="Profile Views" />
