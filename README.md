@@ -9,10 +9,12 @@
 </p>
 
 <h3 align="center">Software Developer and Engineer | DevOps Enthusiast</h3>
-<h3 align="center" border=3>  <a href="https://sohil07.vercel.app/" class="btn btn-primary">
-              <span>Click me for My Portfolio Site </span>
-              <i class="fas fa-arrow-right"></i>
-            </a></h3>
+<h3 align="center">
+  <a href="https://sohil07.vercel.app/" class="btn btn-primary" style="border:3px solid #000; padding:10px; text-decoration:none;">
+    <span>My Portfolio </span>
+    <i class="fas fa-arrow-right"></i>
+  </a>
+</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohil-khann&label=Profile%20views&color=064635&style=flat" alt="Profile Views" />
